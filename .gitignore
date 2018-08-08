@@ -1,3 +1,7 @@
+.idea/
+Spring01hibernate.iml
+target/
+
 # Compiled class file
 *.class
 
